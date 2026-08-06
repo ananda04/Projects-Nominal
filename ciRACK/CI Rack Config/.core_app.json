@@ -1,0 +1,12 @@
+{
+  "app.connect": {
+    "workspaces": {
+      "ri.security.cerulean-staging.workspace.7d802d4e-7f1c-45b9-ba05-f7f6323504d6": {
+        "app_rid": "ri.scout.cerulean-staging.connect-app.f09c5019-bfa7-4e38-b07d-45c4a852f919",
+        "last_bundled_files": [
+          "app.connect"
+        ]
+      }
+    }
+  }
+}
