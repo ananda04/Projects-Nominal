@@ -1,4 +1,3 @@
-```markdown
 # Connect Serial-to-Ethernet Node
 
 Standalone hardware adapter that bridges legacy test rack equipment (RS-232 / SCPI) to the Nominal Connect ecosystem via Ethernet. By running an embedded instance of Connect Engine directly on the node, it offloads driver execution and enables a no-code setup for test instrumentation.
@@ -28,4 +27,3 @@ The final implementation was scaled to run on a Raspberry Pi Compute platform ru
 2. Setup: Connect DB9 to target instrument, attach Ethernet, and apply 9–30V DC power.
 3. Usage: Locate node in Nominal Connect UI, configure instrument protocol, and control hardware without custom code.
 
-```
