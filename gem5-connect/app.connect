@@ -1,0 +1,104 @@
+title: GEM5 RUNNER
+window_title: null
+logo_path: null
+timeline:
+  show: false
+  display: relative
+  pixels_per_tick: 0.0
+  milestones: []
+streaming:
+  buffer_size: 5000
+  timeline: null
+  playback_speed: null
+  window: null
+  persistence: []
+  channels: []
+python:
+  packages:
+  - nominal
+  wheelhouse: null
+on_load: null
+on_unload: null
+tiles:
+- layout: grid
+  rows:
+  - height: 0.75
+    columns:
+    - width: 1.0
+      tile:
+        layout: pane
+        id: 29ce1554-1941-4e88-89c2-25d403c7c236
+        title: null
+        direction: vertical
+        should_fill: false
+        elements:
+        - input: text
+          id: gem5_binary
+          label: gem5 Binary Path
+          default: ./build/NULL/gem5.opt
+        - input: text
+          id: config_script
+          label: Config Script Path
+          default: configs/example/garnet_synth_traffic.py
+        - input: text
+          id: program
+          label: Program Path (blank for synthetic NoC)
+          default: ''
+        - input: text
+          id: topology
+          label: topology
+          default: ''
+        - input: text
+          id: output_dir
+          label: Output Directory
+          default: ./gem5_runs
+        - input: number
+          id: num_nodes
+          label: Number of CPU
+          default: 32
+        - input: number
+          id: injection_start
+          label: Injection Start
+          default: 0.02
+        - input: number
+          id: injection_stop
+          label: Injection Stop
+          default: 0.5
+        - input: number
+          id: injection_step
+          label: Injection Step Size
+          default: 0.02
+        - input: checkbox
+          id: enable_power_models
+          label: Enable Power Models
+  - height: 0.25
+    columns:
+    - width: 1.0
+      tile:
+        layout: pane
+        id: 46cf3d1a-b4ea-4fef-9d37-7c80045c1231
+        title: null
+        direction: vertical
+        should_fill: false
+        elements:
+        - controls: script_table
+          scripts:
+          - label: Run gem5
+            path: autotest_connect.py
+            args: []
+            max_log_lines: 10000
+            id: null
+          - label: send to core
+            path: send_to_core.py
+            args: []
+            max_log_lines: 10000
+            id: null
+          show_output_column: true
+left_panel: null
+right_panel: null
+bottom_panel: null
+scene: null
+poster: null
+prompt_windows: []
+mcap_path: null
+conditionals: []

@@ -1,0 +1,1877 @@
+[
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:13:25.662428",
+        "injection_rate": 0.02,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11877.833265,
+        "average_packet_latency": 10782.680016,
+        "packets_injected": 17693.0,
+        "packets_received": 17679.0,
+        "delivery_rate": 99.92087266150455,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 12,
+            "peak_crossbar_value": 8792.0,
+            "peak_bufwrite_router": 12,
+            "peak_bufwrite_value": 8793.0,
+            "total_crossbar_act": 205412.0,
+            "total_buffer_writes": 205417.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30462.65,
+            "total_energy_pj": 304626480.0,
+            "peak_ctrl_id": 7,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:13:42.026659",
+        "injection_rate": 0.04,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 13111.774938,
+        "average_packet_latency": 11355.639834,
+        "packets_injected": 28631.0,
+        "packets_received": 28609.0,
+        "delivery_rate": 99.92316021096015,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 19,
+            "peak_crossbar_value": 13983.0,
+            "peak_bufwrite_router": 19,
+            "peak_bufwrite_value": 13983.0,
+            "total_crossbar_act": 327525.0,
+            "total_buffer_writes": 327528.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30468.36,
+            "total_energy_pj": 304683630.0,
+            "peak_ctrl_id": 7,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:13:58.022051",
+        "injection_rate": 0.06,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 10300.380228,
+        "average_packet_latency": 9516.606822,
+        "packets_injected": 1114.0,
+        "packets_received": 1114.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 382.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 382.0,
+            "total_crossbar_act": 7916.0,
+            "total_buffer_writes": 7916.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30469.43,
+            "total_energy_pj": 304694340.0,
+            "peak_ctrl_id": 7,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:14:13.495491",
+        "injection_rate": 0.08,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9751.219512,
+        "average_packet_latency": 9438.923395,
+        "packets_injected": 966.0,
+        "packets_received": 966.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 278.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 278.0,
+            "total_crossbar_act": 6162.0,
+            "total_buffer_writes": 6162.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30470.69,
+            "total_energy_pj": 304706940.0,
+            "peak_ctrl_id": 7,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:14:28.987070",
+        "injection_rate": 0.1,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9727.515583,
+        "average_packet_latency": 9688.781014,
+        "packets_injected": 927.0,
+        "packets_received": 927.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 10,
+            "peak_crossbar_value": 261.0,
+            "peak_bufwrite_router": 10,
+            "peak_bufwrite_value": 261.0,
+            "total_crossbar_act": 5491.0,
+            "total_buffer_writes": 5491.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30471.1,
+            "total_energy_pj": 304710990.0,
+            "peak_ctrl_id": 29,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:14:44.727771",
+        "injection_rate": 0.12,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9990.654206,
+        "average_packet_latency": 9865.726228,
+        "packets_injected": 957.0,
+        "packets_received": 957.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 275.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 275.0,
+            "total_crossbar_act": 5743.0,
+            "total_buffer_writes": 5743.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30471.28,
+            "total_energy_pj": 304712790.0,
+            "peak_ctrl_id": 29,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:15:00.397109",
+        "injection_rate": 0.14,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 10296.133568,
+        "average_packet_latency": 10090.38055,
+        "packets_injected": 946.0,
+        "packets_received": 946.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 20,
+            "peak_crossbar_value": 262.0,
+            "peak_bufwrite_router": 20,
+            "peak_bufwrite_value": 262.0,
+            "total_crossbar_act": 5627.0,
+            "total_buffer_writes": 5627.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30471.58,
+            "total_energy_pj": 304715760.0,
+            "peak_ctrl_id": 29,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:15:15.821585",
+        "injection_rate": 0.16,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 10449.372385,
+        "average_packet_latency": 10417.78697,
+        "packets_injected": 967.0,
+        "packets_received": 967.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 290.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 290.0,
+            "total_crossbar_act": 5870.0,
+            "total_buffer_writes": 5870.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30471.64,
+            "total_energy_pj": 304716390.0,
+            "peak_ctrl_id": 29,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:15:31.273650",
+        "injection_rate": 0.18,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 10672.977625,
+        "average_packet_latency": 10617.864693,
+        "packets_injected": 946.0,
+        "packets_received": 946.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 283.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 283.0,
+            "total_crossbar_act": 5718.0,
+            "total_buffer_writes": 5718.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30471.66,
+            "total_energy_pj": 304716570.0,
+            "peak_ctrl_id": 29,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:15:46.671979",
+        "injection_rate": 0.2,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11217.467249,
+        "average_packet_latency": 11164.187035,
+        "packets_injected": 941.0,
+        "packets_received": 941.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 278.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 278.0,
+            "total_crossbar_act": 5584.0,
+            "total_buffer_writes": 5584.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.0,
+            "total_energy_pj": 304719990.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:16:02.265149",
+        "injection_rate": 0.22,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11408.05533,
+        "average_packet_latency": 11373.065015,
+        "packets_injected": 969.0,
+        "packets_received": 969.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 310.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 310.0,
+            "total_crossbar_act": 5907.0,
+            "total_buffer_writes": 5907.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.22,
+            "total_energy_pj": 304722240.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:16:18.029852",
+        "injection_rate": 0.24,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11662.265758,
+        "average_packet_latency": 11662.631579,
+        "packets_injected": 950.0,
+        "packets_received": 950.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 20,
+            "peak_crossbar_value": 287.0,
+            "peak_bufwrite_router": 20,
+            "peak_bufwrite_value": 287.0,
+            "total_crossbar_act": 5782.0,
+            "total_buffer_writes": 5782.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.22,
+            "total_energy_pj": 304722150.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:16:33.790095",
+        "injection_rate": 0.26,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11788.156797,
+        "average_packet_latency": 11738.317757,
+        "packets_injected": 963.0,
+        "packets_received": 963.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 20,
+            "peak_crossbar_value": 293.0,
+            "peak_bufwrite_router": 20,
+            "peak_bufwrite_value": 293.0,
+            "total_crossbar_act": 5876.0,
+            "total_buffer_writes": 5876.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.26,
+            "total_energy_pj": 304722600.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:16:49.487704",
+        "injection_rate": 0.28,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11861.979167,
+        "average_packet_latency": 11916.84322,
+        "packets_injected": 944.0,
+        "packets_received": 944.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 302.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 302.0,
+            "total_crossbar_act": 5703.0,
+            "total_buffer_writes": 5703.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.31,
+            "total_energy_pj": 304723140.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:17:05.062751",
+        "injection_rate": 0.3,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11775.658492,
+        "average_packet_latency": 11921.686747,
+        "packets_injected": 913.0,
+        "packets_received": 913.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 265.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 265.0,
+            "total_crossbar_act": 5530.0,
+            "total_buffer_writes": 5530.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.33,
+            "total_energy_pj": 304723320.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:17:20.656896",
+        "injection_rate": 0.32,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11429.941618,
+        "average_packet_latency": 11526.701571,
+        "packets_injected": 955.0,
+        "packets_received": 955.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 290.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 290.0,
+            "total_crossbar_act": 5822.0,
+            "total_buffer_writes": 5822.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.36,
+            "total_energy_pj": 304723590.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:17:36.457976",
+        "injection_rate": 0.34,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11423.743501,
+        "average_packet_latency": 11596.194503,
+        "packets_injected": 946.0,
+        "packets_received": 946.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 268.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 268.0,
+            "total_crossbar_act": 5600.0,
+            "total_buffer_writes": 5600.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.37,
+            "total_energy_pj": 304723680.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:17:52.295465",
+        "injection_rate": 0.36,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11484.297521,
+        "average_packet_latency": 11621.134021,
+        "packets_injected": 970.0,
+        "packets_received": 970.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 277.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 277.0,
+            "total_crossbar_act": 5931.0,
+            "total_buffer_writes": 5931.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.31,
+            "total_energy_pj": 304723140.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:18:07.858681",
+        "injection_rate": 0.38,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11601.477449,
+        "average_packet_latency": 11630.260521,
+        "packets_injected": 998.0,
+        "packets_received": 998.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 12,
+            "peak_crossbar_value": 290.0,
+            "peak_bufwrite_router": 12,
+            "peak_bufwrite_value": 290.0,
+            "total_crossbar_act": 6287.0,
+            "total_buffer_writes": 6287.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.37,
+            "total_energy_pj": 304723680.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:18:23.604157",
+        "injection_rate": 0.4,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11666.802944,
+        "average_packet_latency": 11782.698249,
+        "packets_injected": 971.0,
+        "packets_received": 971.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 294.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 294.0,
+            "total_crossbar_act": 6022.0,
+            "total_buffer_writes": 6022.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.41,
+            "total_energy_pj": 304724130.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:18:39.332071",
+        "injection_rate": 0.42,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11605.857741,
+        "average_packet_latency": 11699.789695,
+        "packets_injected": 951.0,
+        "packets_received": 951.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 12,
+            "peak_crossbar_value": 267.0,
+            "peak_bufwrite_router": 12,
+            "peak_bufwrite_value": 267.0,
+            "total_crossbar_act": 5773.0,
+            "total_buffer_writes": 5773.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.44,
+            "total_energy_pj": 304724400.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:18:54.918463",
+        "injection_rate": 0.44,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11428.807947,
+        "average_packet_latency": 11511.554622,
+        "packets_injected": 952.0,
+        "packets_received": 952.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 10,
+            "peak_crossbar_value": 269.0,
+            "peak_bufwrite_router": 10,
+            "peak_bufwrite_value": 269.0,
+            "total_crossbar_act": 5851.0,
+            "total_buffer_writes": 5851.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.68,
+            "total_energy_pj": 304726830.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:19:10.468970",
+        "injection_rate": 0.46,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11504.704876,
+        "average_packet_latency": 11562.167906,
+        "packets_injected": 941.0,
+        "packets_received": 941.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 10,
+            "peak_crossbar_value": 260.0,
+            "peak_bufwrite_router": 10,
+            "peak_bufwrite_value": 260.0,
+            "total_crossbar_act": 5725.0,
+            "total_buffer_writes": 5725.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.68,
+            "total_energy_pj": 304726830.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:19:26.202356",
+        "injection_rate": 0.48,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11699.431357,
+        "average_packet_latency": 11740.913811,
+        "packets_injected": 963.0,
+        "packets_received": 963.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 12,
+            "peak_crossbar_value": 274.0,
+            "peak_bufwrite_router": 12,
+            "peak_bufwrite_value": 274.0,
+            "total_crossbar_act": 5986.0,
+            "total_buffer_writes": 5986.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.68,
+            "total_energy_pj": 304726830.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T19:19:42.197236",
+        "injection_rate": 0.5,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11566.45817,
+        "average_packet_latency": 11623.115578,
+        "packets_injected": 995.0,
+        "packets_received": 995.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 12,
+            "peak_crossbar_value": 283.0,
+            "peak_bufwrite_router": 12,
+            "peak_bufwrite_value": 283.0,
+            "total_crossbar_act": 6135.0,
+            "total_buffer_writes": 6135.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.74,
+            "total_energy_pj": 304727370.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T22:58:17.900298",
+        "injection_rate": 0.02,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11877.833265,
+        "average_packet_latency": 10782.680016,
+        "packets_injected": 17693.0,
+        "packets_received": 17679.0,
+        "delivery_rate": 99.92087266150455,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 12,
+            "peak_crossbar_value": 8792.0,
+            "peak_bufwrite_router": 12,
+            "peak_bufwrite_value": 8793.0,
+            "total_crossbar_act": 205412.0,
+            "total_buffer_writes": 205417.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30462.65,
+            "total_energy_pj": 304626480.0,
+            "peak_ctrl_id": 7,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T22:58:34.557414",
+        "injection_rate": 0.04,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 13111.774938,
+        "average_packet_latency": 11355.639834,
+        "packets_injected": 28631.0,
+        "packets_received": 28609.0,
+        "delivery_rate": 99.92316021096015,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 19,
+            "peak_crossbar_value": 13983.0,
+            "peak_bufwrite_router": 19,
+            "peak_bufwrite_value": 13983.0,
+            "total_crossbar_act": 327525.0,
+            "total_buffer_writes": 327528.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30468.36,
+            "total_energy_pj": 304683630.0,
+            "peak_ctrl_id": 7,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T22:58:50.363228",
+        "injection_rate": 0.06,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 10300.380228,
+        "average_packet_latency": 9516.606822,
+        "packets_injected": 1114.0,
+        "packets_received": 1114.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 382.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 382.0,
+            "total_crossbar_act": 7916.0,
+            "total_buffer_writes": 7916.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30469.43,
+            "total_energy_pj": 304694340.0,
+            "peak_ctrl_id": 7,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T22:59:05.667307",
+        "injection_rate": 0.08,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9751.219512,
+        "average_packet_latency": 9438.923395,
+        "packets_injected": 966.0,
+        "packets_received": 966.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 278.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 278.0,
+            "total_crossbar_act": 6162.0,
+            "total_buffer_writes": 6162.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30470.69,
+            "total_energy_pj": 304706940.0,
+            "peak_ctrl_id": 7,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T22:59:21.142912",
+        "injection_rate": 0.1,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9727.515583,
+        "average_packet_latency": 9688.781014,
+        "packets_injected": 927.0,
+        "packets_received": 927.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 10,
+            "peak_crossbar_value": 261.0,
+            "peak_bufwrite_router": 10,
+            "peak_bufwrite_value": 261.0,
+            "total_crossbar_act": 5491.0,
+            "total_buffer_writes": 5491.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30471.1,
+            "total_energy_pj": 304710990.0,
+            "peak_ctrl_id": 29,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T22:59:37.017556",
+        "injection_rate": 0.12,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9990.654206,
+        "average_packet_latency": 9865.726228,
+        "packets_injected": 957.0,
+        "packets_received": 957.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 275.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 275.0,
+            "total_crossbar_act": 5743.0,
+            "total_buffer_writes": 5743.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30471.28,
+            "total_energy_pj": 304712790.0,
+            "peak_ctrl_id": 29,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T22:59:52.403734",
+        "injection_rate": 0.14,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 10296.133568,
+        "average_packet_latency": 10090.38055,
+        "packets_injected": 946.0,
+        "packets_received": 946.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 20,
+            "peak_crossbar_value": 262.0,
+            "peak_bufwrite_router": 20,
+            "peak_bufwrite_value": 262.0,
+            "total_crossbar_act": 5627.0,
+            "total_buffer_writes": 5627.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30471.58,
+            "total_energy_pj": 304715760.0,
+            "peak_ctrl_id": 29,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T23:00:07.737338",
+        "injection_rate": 0.16,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 10449.372385,
+        "average_packet_latency": 10417.78697,
+        "packets_injected": 967.0,
+        "packets_received": 967.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 290.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 290.0,
+            "total_crossbar_act": 5870.0,
+            "total_buffer_writes": 5870.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30471.64,
+            "total_energy_pj": 304716390.0,
+            "peak_ctrl_id": 29,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T23:00:23.051981",
+        "injection_rate": 0.18,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 10672.977625,
+        "average_packet_latency": 10617.864693,
+        "packets_injected": 946.0,
+        "packets_received": 946.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 283.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 283.0,
+            "total_crossbar_act": 5718.0,
+            "total_buffer_writes": 5718.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30471.66,
+            "total_energy_pj": 304716570.0,
+            "peak_ctrl_id": 29,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T23:00:38.479943",
+        "injection_rate": 0.2,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11217.467249,
+        "average_packet_latency": 11164.187035,
+        "packets_injected": 941.0,
+        "packets_received": 941.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 278.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 278.0,
+            "total_crossbar_act": 5584.0,
+            "total_buffer_writes": 5584.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.0,
+            "total_energy_pj": 304719990.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T23:00:53.923910",
+        "injection_rate": 0.22,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11408.05533,
+        "average_packet_latency": 11373.065015,
+        "packets_injected": 969.0,
+        "packets_received": 969.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 310.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 310.0,
+            "total_crossbar_act": 5907.0,
+            "total_buffer_writes": 5907.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.22,
+            "total_energy_pj": 304722240.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T23:01:09.719351",
+        "injection_rate": 0.24,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11662.265758,
+        "average_packet_latency": 11662.631579,
+        "packets_injected": 950.0,
+        "packets_received": 950.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 20,
+            "peak_crossbar_value": 287.0,
+            "peak_bufwrite_router": 20,
+            "peak_bufwrite_value": 287.0,
+            "total_crossbar_act": 5782.0,
+            "total_buffer_writes": 5782.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.22,
+            "total_energy_pj": 304722150.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T23:01:25.277228",
+        "injection_rate": 0.26,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11788.156797,
+        "average_packet_latency": 11738.317757,
+        "packets_injected": 963.0,
+        "packets_received": 963.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 20,
+            "peak_crossbar_value": 293.0,
+            "peak_bufwrite_router": 20,
+            "peak_bufwrite_value": 293.0,
+            "total_crossbar_act": 5876.0,
+            "total_buffer_writes": 5876.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.26,
+            "total_energy_pj": 304722600.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T23:01:41.411805",
+        "injection_rate": 0.28,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11861.979167,
+        "average_packet_latency": 11916.84322,
+        "packets_injected": 944.0,
+        "packets_received": 944.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 302.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 302.0,
+            "total_crossbar_act": 5703.0,
+            "total_buffer_writes": 5703.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.31,
+            "total_energy_pj": 304723140.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T23:01:57.369821",
+        "injection_rate": 0.3,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11775.658492,
+        "average_packet_latency": 11921.686747,
+        "packets_injected": 913.0,
+        "packets_received": 913.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 265.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 265.0,
+            "total_crossbar_act": 5530.0,
+            "total_buffer_writes": 5530.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.33,
+            "total_energy_pj": 304723320.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T23:02:13.213192",
+        "injection_rate": 0.32,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11429.941618,
+        "average_packet_latency": 11526.701571,
+        "packets_injected": 955.0,
+        "packets_received": 955.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 290.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 290.0,
+            "total_crossbar_act": 5822.0,
+            "total_buffer_writes": 5822.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.36,
+            "total_energy_pj": 304723590.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T23:02:29.126281",
+        "injection_rate": 0.34,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11423.743501,
+        "average_packet_latency": 11596.194503,
+        "packets_injected": 946.0,
+        "packets_received": 946.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 268.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 268.0,
+            "total_crossbar_act": 5600.0,
+            "total_buffer_writes": 5600.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.37,
+            "total_energy_pj": 304723680.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T23:02:45.189629",
+        "injection_rate": 0.36,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11484.297521,
+        "average_packet_latency": 11621.134021,
+        "packets_injected": 970.0,
+        "packets_received": 970.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 277.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 277.0,
+            "total_crossbar_act": 5931.0,
+            "total_buffer_writes": 5931.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.31,
+            "total_energy_pj": 304723140.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T23:03:01.111687",
+        "injection_rate": 0.38,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11601.477449,
+        "average_packet_latency": 11630.260521,
+        "packets_injected": 998.0,
+        "packets_received": 998.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 12,
+            "peak_crossbar_value": 290.0,
+            "peak_bufwrite_router": 12,
+            "peak_bufwrite_value": 290.0,
+            "total_crossbar_act": 6287.0,
+            "total_buffer_writes": 6287.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.37,
+            "total_energy_pj": 304723680.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T23:03:16.643297",
+        "injection_rate": 0.4,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11666.802944,
+        "average_packet_latency": 11782.698249,
+        "packets_injected": 971.0,
+        "packets_received": 971.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 11,
+            "peak_crossbar_value": 294.0,
+            "peak_bufwrite_router": 11,
+            "peak_bufwrite_value": 294.0,
+            "total_crossbar_act": 6022.0,
+            "total_buffer_writes": 6022.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.41,
+            "total_energy_pj": 304724130.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T23:03:32.338108",
+        "injection_rate": 0.42,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11605.857741,
+        "average_packet_latency": 11699.789695,
+        "packets_injected": 951.0,
+        "packets_received": 951.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 12,
+            "peak_crossbar_value": 267.0,
+            "peak_bufwrite_router": 12,
+            "peak_bufwrite_value": 267.0,
+            "total_crossbar_act": 5773.0,
+            "total_buffer_writes": 5773.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.44,
+            "total_energy_pj": 304724400.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T23:03:48.184355",
+        "injection_rate": 0.44,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11428.807947,
+        "average_packet_latency": 11511.554622,
+        "packets_injected": 952.0,
+        "packets_received": 952.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 10,
+            "peak_crossbar_value": 269.0,
+            "peak_bufwrite_router": 10,
+            "peak_bufwrite_value": 269.0,
+            "total_crossbar_act": 5851.0,
+            "total_buffer_writes": 5851.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.68,
+            "total_energy_pj": 304726830.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T23:04:04.227598",
+        "injection_rate": 0.46,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11504.704876,
+        "average_packet_latency": 11562.167906,
+        "packets_injected": 941.0,
+        "packets_received": 941.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 10,
+            "peak_crossbar_value": 260.0,
+            "peak_bufwrite_router": 10,
+            "peak_bufwrite_value": 260.0,
+            "total_crossbar_act": 5725.0,
+            "total_buffer_writes": 5725.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.68,
+            "total_energy_pj": 304726830.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T23:04:20.061416",
+        "injection_rate": 0.48,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11699.431357,
+        "average_packet_latency": 11740.913811,
+        "packets_injected": 963.0,
+        "packets_received": 963.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 12,
+            "peak_crossbar_value": 274.0,
+            "peak_bufwrite_router": 12,
+            "peak_bufwrite_value": 274.0,
+            "total_crossbar_act": 5986.0,
+            "total_buffer_writes": 5986.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.68,
+            "total_energy_pj": 304726830.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Mesh_XY",
+        "date": "2026-06-07T23:04:35.828124",
+        "injection_rate": 0.5,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11566.45817,
+        "average_packet_latency": 11623.115578,
+        "packets_injected": 995.0,
+        "packets_received": 995.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 12,
+            "peak_crossbar_value": 283.0,
+            "peak_bufwrite_router": 12,
+            "peak_bufwrite_value": 283.0,
+            "total_crossbar_act": 6135.0,
+            "total_buffer_writes": 6135.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.74,
+            "total_energy_pj": 304727370.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:14:51.203432",
+        "injection_rate": 0.02,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 11260.335683,
+        "average_packet_latency": 10197.795988,
+        "packets_injected": 17709.0,
+        "packets_received": 17695.0,
+        "delivery_rate": 99.92094415269072,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 2,
+            "peak_crossbar_value": 9921.0,
+            "peak_bufwrite_router": 2,
+            "peak_bufwrite_value": 9921.0,
+            "total_crossbar_act": 168067.0,
+            "total_buffer_writes": 168067.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30462.83,
+            "total_energy_pj": 304628280.0,
+            "peak_ctrl_id": 7,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:15:09.697010",
+        "injection_rate": 0.04,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 12651.50639,
+        "average_packet_latency": 10877.142761,
+        "packets_injected": 29886.0,
+        "packets_received": 29868.0,
+        "delivery_rate": 99.93977113029511,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 2,
+            "peak_crossbar_value": 16478.0,
+            "peak_bufwrite_router": 2,
+            "peak_bufwrite_value": 16480.0,
+            "total_crossbar_act": 280820.0,
+            "total_buffer_writes": 280824.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30468.44,
+            "total_energy_pj": 304684440.0,
+            "peak_ctrl_id": 7,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:15:27.141409",
+        "injection_rate": 0.06,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 12620.128203,
+        "average_packet_latency": 10851.396119,
+        "packets_injected": 29609.0,
+        "packets_received": 29582.0,
+        "delivery_rate": 99.90881151001385,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 2,
+            "peak_crossbar_value": 15954.0,
+            "peak_bufwrite_router": 2,
+            "peak_bufwrite_value": 15954.0,
+            "total_crossbar_act": 277543.0,
+            "total_buffer_writes": 277544.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30469.51,
+            "total_energy_pj": 304695150.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.28
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:15:43.932210",
+        "injection_rate": 0.08,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9397.709321,
+        "average_packet_latency": 9009.202454,
+        "packets_injected": 978.0,
+        "packets_received": 978.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 2,
+            "peak_crossbar_value": 314.0,
+            "peak_bufwrite_router": 2,
+            "peak_bufwrite_value": 314.0,
+            "total_crossbar_act": 5200.0,
+            "total_buffer_writes": 5200.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30470.81,
+            "total_energy_pj": 304708110.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.28
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:16:01.137381",
+        "injection_rate": 0.1,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9090.008613,
+        "average_packet_latency": 8704.16198,
+        "packets_injected": 978.0,
+        "packets_received": 889.0,
+        "delivery_rate": 90.8997955010225,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 2,
+            "peak_crossbar_value": 306.0,
+            "peak_bufwrite_router": 2,
+            "peak_bufwrite_value": 321.0,
+            "total_crossbar_act": 4772.0,
+            "total_buffer_writes": 4861.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30471.19,
+            "total_energy_pj": 304711890.0,
+            "peak_ctrl_id": 29,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:16:17.885637",
+        "injection_rate": 0.12,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 10132.792485,
+        "average_packet_latency": 10122.502629,
+        "packets_injected": 951.0,
+        "packets_received": 951.0,
+        "delivery_rate": 100.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 2,
+            "peak_crossbar_value": 271.0,
+            "peak_bufwrite_router": 2,
+            "peak_bufwrite_value": 271.0,
+            "total_crossbar_act": 4785.0,
+            "total_buffer_writes": 4785.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30471.44,
+            "total_energy_pj": 304714410.0,
+            "peak_ctrl_id": 29,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:16:34.878828",
+        "injection_rate": 0.14,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9511.281588,
+        "average_packet_latency": 9095.319635,
+        "packets_injected": 960.0,
+        "packets_received": 876.0,
+        "delivery_rate": 91.25,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 1,
+            "peak_crossbar_value": 242.0,
+            "peak_bufwrite_router": 1,
+            "peak_bufwrite_value": 252.0,
+            "total_crossbar_act": 4577.0,
+            "total_buffer_writes": 4661.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30471.69,
+            "total_energy_pj": 304716930.0,
+            "peak_ctrl_id": 29,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:16:51.970059",
+        "injection_rate": 0.16,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9453.3459,
+        "average_packet_latency": 9309.218203,
+        "packets_injected": 939.0,
+        "packets_received": 857.0,
+        "delivery_rate": 91.26730564430245,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 1,
+            "peak_crossbar_value": 238.0,
+            "peak_bufwrite_router": 1,
+            "peak_bufwrite_value": 248.0,
+            "total_crossbar_act": 4325.0,
+            "total_buffer_writes": 4407.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30471.74,
+            "total_energy_pj": 304717380.0,
+            "peak_ctrl_id": 29,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:17:08.847434",
+        "injection_rate": 0.18,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9681.01029,
+        "average_packet_latency": 9486.127168,
+        "packets_injected": 935.0,
+        "packets_received": 865.0,
+        "delivery_rate": 92.51336898395722,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 1,
+            "peak_crossbar_value": 239.0,
+            "peak_bufwrite_router": 1,
+            "peak_bufwrite_value": 249.0,
+            "total_crossbar_act": 4284.0,
+            "total_buffer_writes": 4354.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30471.76,
+            "total_energy_pj": 304717650.0,
+            "peak_ctrl_id": 29,
+            "peak_ctrl_power_mw": 952.29
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:17:25.797239",
+        "injection_rate": 0.2,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 10073.837739,
+        "average_packet_latency": 9919.042189,
+        "packets_injected": 952.0,
+        "packets_received": 877.0,
+        "delivery_rate": 92.12184873949579,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 2,
+            "peak_crossbar_value": 238.0,
+            "peak_bufwrite_router": 2,
+            "peak_bufwrite_value": 247.0,
+            "total_crossbar_act": 4377.0,
+            "total_buffer_writes": 4452.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.1,
+            "total_energy_pj": 304720980.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:17:43.144327",
+        "injection_rate": 0.22,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9940.952381,
+        "average_packet_latency": 9780.87886,
+        "packets_injected": 928.0,
+        "packets_received": 842.0,
+        "delivery_rate": 90.73275862068965,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 4,
+            "peak_crossbar_value": 224.0,
+            "peak_bufwrite_router": 4,
+            "peak_bufwrite_value": 237.0,
+            "total_crossbar_act": 4229.0,
+            "total_buffer_writes": 4315.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.29,
+            "total_energy_pj": 304722870.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:18:01.436519",
+        "injection_rate": 0.24,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9673.371648,
+        "average_packet_latency": 9555.687204,
+        "packets_injected": 940.0,
+        "packets_received": 844.0,
+        "delivery_rate": 89.7872340425532,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 0,
+            "peak_crossbar_value": 211.0,
+            "peak_bufwrite_router": 0,
+            "peak_bufwrite_value": 221.0,
+            "total_crossbar_act": 4242.0,
+            "total_buffer_writes": 4338.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.28,
+            "total_energy_pj": 304722780.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:18:18.933597",
+        "injection_rate": 0.26,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9769.0,
+        "average_packet_latency": 9713.592233,
+        "packets_injected": 927.0,
+        "packets_received": 824.0,
+        "delivery_rate": 88.88888888888889,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 2,
+            "peak_crossbar_value": 227.0,
+            "peak_bufwrite_router": 2,
+            "peak_bufwrite_value": 238.0,
+            "total_crossbar_act": 4106.0,
+            "total_buffer_writes": 4209.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.29,
+            "total_energy_pj": 304722870.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:18:37.080090",
+        "injection_rate": 0.28,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 8782.564103,
+        "average_packet_latency": 8558.670143,
+        "packets_injected": 921.0,
+        "packets_received": 767.0,
+        "delivery_rate": 83.27904451682954,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 0,
+            "peak_crossbar_value": 211.0,
+            "peak_bufwrite_router": 0,
+            "peak_bufwrite_value": 229.0,
+            "total_crossbar_act": 3994.0,
+            "total_buffer_writes": 4148.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.33,
+            "total_energy_pj": 304723320.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:18:54.262523",
+        "injection_rate": 0.3,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 8799.045599,
+        "average_packet_latency": 8523.178808,
+        "packets_injected": 910.0,
+        "packets_received": 755.0,
+        "delivery_rate": 82.96703296703298,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 0,
+            "peak_crossbar_value": 208.0,
+            "peak_bufwrite_router": 0,
+            "peak_bufwrite_value": 222.0,
+            "total_crossbar_act": 3909.0,
+            "total_buffer_writes": 4064.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.38,
+            "total_energy_pj": 304723770.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:19:11.316507",
+        "injection_rate": 0.32,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9027.335984,
+        "average_packet_latency": 8604.859335,
+        "packets_injected": 936.0,
+        "packets_received": 782.0,
+        "delivery_rate": 83.54700854700855,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 4,
+            "peak_crossbar_value": 217.0,
+            "peak_bufwrite_router": 4,
+            "peak_bufwrite_value": 237.0,
+            "total_crossbar_act": 4133.0,
+            "total_buffer_writes": 4287.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.4,
+            "total_energy_pj": 304724040.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:19:28.483017",
+        "injection_rate": 0.34,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 8939.849624,
+        "average_packet_latency": 8619.458128,
+        "packets_injected": 959.0,
+        "packets_received": 812.0,
+        "delivery_rate": 84.67153284671532,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 3,
+            "peak_crossbar_value": 222.0,
+            "peak_bufwrite_router": 3,
+            "peak_bufwrite_value": 239.0,
+            "total_crossbar_act": 4303.0,
+            "total_buffer_writes": 4450.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.41,
+            "total_energy_pj": 304724130.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:19:45.609739",
+        "injection_rate": 0.36,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 10044.32133,
+        "average_packet_latency": 10145.614035,
+        "packets_injected": 953.0,
+        "packets_received": 855.0,
+        "delivery_rate": 89.71668415529905,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 0,
+            "peak_crossbar_value": 227.0,
+            "peak_bufwrite_router": 0,
+            "peak_bufwrite_value": 237.0,
+            "total_crossbar_act": 4435.0,
+            "total_buffer_writes": 4533.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.4,
+            "total_energy_pj": 304724040.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:20:02.817531",
+        "injection_rate": 0.38,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9166.035951,
+        "average_packet_latency": 8882.49694,
+        "packets_injected": 950.0,
+        "packets_received": 817.0,
+        "delivery_rate": 86.0,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 4,
+            "peak_crossbar_value": 244.0,
+            "peak_bufwrite_router": 4,
+            "peak_bufwrite_value": 262.0,
+            "total_crossbar_act": 4325.0,
+            "total_buffer_writes": 4458.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.5,
+            "total_energy_pj": 304725030.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:20:19.889641",
+        "injection_rate": 0.4,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9576.436222,
+        "average_packet_latency": 9682.035928,
+        "packets_injected": 926.0,
+        "packets_received": 835.0,
+        "delivery_rate": 90.17278617710583,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 4,
+            "peak_crossbar_value": 218.0,
+            "peak_bufwrite_router": 4,
+            "peak_bufwrite_value": 233.0,
+            "total_crossbar_act": 4113.0,
+            "total_buffer_writes": 4204.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.57,
+            "total_energy_pj": 304725660.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:20:36.921301",
+        "injection_rate": 0.42,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9950.301205,
+        "average_packet_latency": 10074.142157,
+        "packets_injected": 904.0,
+        "packets_received": 816.0,
+        "delivery_rate": 90.2654867256637,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 3,
+            "peak_crossbar_value": 224.0,
+            "peak_bufwrite_router": 3,
+            "peak_bufwrite_value": 236.0,
+            "total_crossbar_act": 3999.0,
+            "total_buffer_writes": 4087.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.61,
+            "total_energy_pj": 304726110.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:20:54.054540",
+        "injection_rate": 0.44,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9234.770384,
+        "average_packet_latency": 8993.894994,
+        "packets_injected": 944.0,
+        "packets_received": 819.0,
+        "delivery_rate": 86.75847457627118,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 1,
+            "peak_crossbar_value": 205.0,
+            "peak_bufwrite_router": 1,
+            "peak_bufwrite_value": 220.0,
+            "total_crossbar_act": 4201.0,
+            "total_buffer_writes": 4326.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.81,
+            "total_energy_pj": 304728090.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:21:12.081052",
+        "injection_rate": 0.46,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 9098.205384,
+        "average_packet_latency": 8930.749682,
+        "packets_injected": 922.0,
+        "packets_received": 787.0,
+        "delivery_rate": 85.35791757049893,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 4,
+            "peak_crossbar_value": 205.0,
+            "peak_bufwrite_router": 4,
+            "peak_bufwrite_value": 222.0,
+            "total_crossbar_act": 3990.0,
+            "total_buffer_writes": 4125.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.81,
+            "total_energy_pj": 304728090.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:21:29.257832",
+        "injection_rate": 0.48,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 8858.762887,
+        "average_packet_latency": 8599.21671,
+        "packets_injected": 911.0,
+        "packets_received": 766.0,
+        "delivery_rate": 84.08342480790341,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 0,
+            "peak_crossbar_value": 193.0,
+            "peak_bufwrite_router": 0,
+            "peak_bufwrite_value": 209.0,
+            "total_crossbar_act": 3893.0,
+            "total_buffer_writes": 4038.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.81,
+            "total_energy_pj": 304728090.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    },
+    {
+        "topology": "Torus",
+        "date": "2026-06-07T23:21:46.867116",
+        "injection_rate": 0.5,
+        "cycle (ticks)": 10000000,
+        "average_flit_latency": 8823.902439,
+        "average_packet_latency": 8477.186312,
+        "packets_injected": 937.0,
+        "packets_received": 789.0,
+        "delivery_rate": 84.20490928495198,
+        "worst_case_latency_proxy": {
+            "peak_crossbar_router": 3,
+            "peak_crossbar_value": 198.0,
+            "peak_bufwrite_router": 3,
+            "peak_bufwrite_value": 215.0,
+            "total_crossbar_act": 4096.0,
+            "total_buffer_writes": 4244.0
+        },
+        "dram_power": {
+            "total_avg_power_mw": 30472.85,
+            "total_energy_pj": 304728540.0,
+            "peak_ctrl_id": 11,
+            "peak_ctrl_power_mw": 952.3
+        }
+    }
+]
